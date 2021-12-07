@@ -41,7 +41,10 @@
       - Focus on: skills, education, experience, knowledge as accomplishments (rather than duties and tasks)
  - Individual contributions
    
-
+## Requirement
+ - pip install Keras
+ - pip install --upgrade tensorflow
+ 
 ## Grading:
  - Acquiring/Cleaning data
  - Defining/refining the problem
