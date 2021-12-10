@@ -3,8 +3,10 @@
  - Stock
  - 옵션: Predicting Stock Market
     - Brief Summary: Predicting Stock Market
-        - Getting Data: collect data from online (where and how)
-        - Possible Questions: ?????? 
+        - Getting Data: collect data from FinanceDataReader module and yahoo finance from our customized crawler
+        - Possible Questions: 
+            - Can we predict the future stock price movement based on the previous price data?
+            - Can we use the predicted future stock data to either buy or sell stocks in the future
         - How it relates to CMPT 353: 
             - Inlcudes: Noise/outlier filtering - cleaning data, Defining problem, and analyzing stock market 
 =======
