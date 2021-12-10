@@ -1,4 +1,6 @@
-## Topic: *Stock prediction using machine learning and Deep learning models*
+# Topic: *Stock prediction using machine learning and Deep learning models*
+
+## Introduction
 - Brief Summary: Predicting Stock Market
     - Getting Data: collect data from FinanceDataReader module and yahoo finance from our customized crawler
     - Possible Questions: 
