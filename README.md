@@ -26,9 +26,10 @@
 >>>>>>> 87bef5570103f21a98f56406ea0a065c650263b2
 
 ## Contributors:
- - Jiwon Jun
- - Kai Kim
- - Jieung Park
+ - JIWON JUN
+ - YOUNGSEONG Kim
+ - JIEUNG PARK
+ 
 
 ## Required Libraries:
  - Install by using pip3 install **module_name** or installation method that fits your device
