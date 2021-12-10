@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Topic: *Stock prediction using machine learning and Deep learning models*
  - Stock
  - 옵션: Predicting Stock Market
@@ -9,8 +8,8 @@
             - Can we use the predicted future stock data to either buy or sell stocks in the future?
         - How it relates to CMPT 353: 
             - Inlcudes: Noise/outlier filtering - cleaning data, Defining problem, and analyzing stock market 
-=======
-## Stock Market Price Prediction
+==============================================================================================================
+## Models
  - Stock market prices are predicted by using Machine Learning Regression Models and Deep Learning Model.
     - Machine Learning Regression Models:
          - Linear Regression Model
@@ -18,6 +17,10 @@
          - Random Forest Regression Model
     - Deep Learning Model:
          - Long Short-Term Memory (LSTM) Model   
+
+============================================================================================================== 
+## Steps
+
  - The data used are gathered from our crawler program (crawler.py)
     - Stock price indices used are:
         - Nasdaq (IXIC)
@@ -25,12 +28,31 @@
     - Data pre-processing includes:
         - Data Cleaning
         - Noise Filtering (Short/Long Rolling Mean)
->>>>>>> 87bef5570103f21a98f56406ea0a065c650263b2
+        - Data Normalization -> MinMaxscaler
+    - Build and Train Models (Machine Learning)
+        - Linear Regression - Short Rolling
+        - Linear Regression - Long Rolling
+        - K-nearest Neighbour Regression - Short Rolling
+        - K-nearest Neighbour Regression - Long Rolling
+        - Random Forest Regression - Best Parameters
+            - Random Forest Regression - Short Rolling
+            - Random Forest Regression - Long Rolling
+    - Machine Learning Models Failure Analysis
+    - Build and Train Models (Deep Learning)
+        - Epoch 20
+        - Epoch 100
+    - Model Prediction and Visaulizing the Results
+    - Model Analysis 
+        - RMSE compare analysis
+        - Validation loss and training loss by epochs
+    - Ininital model with single hidden layer with LSTM model (For model testing)
+        
+==============================================================================================================
 
 ## Contributors:
- - JIWON JUN
- - YOUNGSEONG Kim
- - JIEUNG PARK
+ - Jiwon Jun (301335374), SFU SoSy
+ - Jieung Park (301330362), SFU Comp Sci
+ - Youngseong Kim (301283396), SFU Comp Sci
  
 
 ## Required Libraries:
