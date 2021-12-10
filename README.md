@@ -69,7 +69,14 @@
 ## Requirement
  - pip install Keras
  - pip install --upgrade tensorflow
- - pip 
+ - pip install -U finance-datareader
+ - pip install tensorflow-gpu #for usage of GPU
+ - pip install keras-gpu #for usage of GPU
+ - pip install matplotlib
+ - pip install -U scikit-learn
+ - pip install -U statsmodels
+ - pip install -U pandas
+ - pip install -U numpy
  
 ## Grading:
  - Acquiring/Cleaning data
