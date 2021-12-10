@@ -16,7 +16,7 @@
 
 ## Contributors:
  - Jiwon Jun
- - Kai Kim
+ - Youngseong Kim
  - Jieung Park
 
 ## Required Libraries:
