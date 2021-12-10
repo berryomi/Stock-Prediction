@@ -79,7 +79,7 @@
      13. Deep Learning Data Pre-processing & LSTM epoch run -> Produce LSTM prediction graph
      14. LSTM Loss Calculation -> Produce LSTM training loss and validation loss graph
 
-<<<<<<< HEAD
+
 ## Project Experience Summary
  - Must be included by each member (in addition to the 6 pages report)
  - Overview of the project (like a resume)
@@ -88,10 +88,4 @@
    
 
  
-## Grading:
- - Acquiring/Cleaning data
- - Defining/refining the problem
- - Data analysis
- - How you well-explain the whole thing
-=======
->>>>>>> 87bef5570103f21a98f56406ea0a065c650263b2
+
