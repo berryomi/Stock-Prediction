@@ -8,7 +8,7 @@
             - Can we use the predicted future stock data to either buy or sell stocks in the future?
         - How it relates to CMPT 353: 
             - Inlcudes: Noise/outlier filtering - cleaning data, Defining problem, and analyzing stock market 
-==============================================================================================================
+================================================================================
 ## Models
  - Stock market prices are predicted by using Machine Learning Regression Models and Deep Learning Model.
     - Machine Learning Regression Models:
@@ -18,7 +18,7 @@
     - Deep Learning Model:
          - Long Short-Term Memory (LSTM) Model   
 
-============================================================================================================== 
+=================================================================================
 ## Steps
 
  - The data used are gathered from our crawler program (crawler.py)
