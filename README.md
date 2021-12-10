@@ -47,7 +47,7 @@
         - Validation loss and training loss by epochs
     - Ininital model with single hidden layer with LSTM model (For model testing)
         
-==============================================================================================================
+
 
 ## Contributors:
  - Jiwon Jun (301335374), SFU SoSy
