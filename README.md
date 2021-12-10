@@ -30,7 +30,7 @@
  - keras
 
 ## Execution Process:
- - Run Traiding.ipynb (Jupyter file)
+ - Run Trading.ipynb (Jupyter file)
  - Order of Execution and Expected Results:
      1. Importing Modules
      2. Gathering Data & Data Cleaning -> Produce raw data graph
