@@ -1,5 +1,6 @@
-## Topic:
- - 미정
+## Stock Market Price Prediction
+ - Stock market prices are predicted by using Machine Learning Regression Models and Deep Learning Model.
+  - dsad
  - 옵션: Predicting Stock Market
     - Brief Summary: Predicting Stock Market
         - Getting Data: collect data from online (where and how)
