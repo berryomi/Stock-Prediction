@@ -20,7 +20,7 @@
  - Jieung Park
 
 ## Required Libraries:
- - Install by using pip3 install **module name** or installation method that fits your device
+ - Install by using pip3 install **module_name** or installation method that fits your device
  - pandas
  - numpy
  - matplotlib
