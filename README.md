@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-## Topic:
+## Topic: *Stock prediction using machine learning and Deep learning models*
  - Stock
  - 옵션: Predicting Stock Market
     - Brief Summary: Predicting Stock Market
