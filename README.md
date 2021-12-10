@@ -6,7 +6,7 @@
         - Getting Data: collect data from FinanceDataReader module and yahoo finance from our customized crawler
         - Possible Questions: 
             - Can we predict the future stock price movement based on the previous price data?
-            - Can we use the predicted future stock data to either buy or sell stocks in the future
+            - Can we use the predicted future stock data to either buy or sell stocks in the future?
         - How it relates to CMPT 353: 
             - Inlcudes: Noise/outlier filtering - cleaning data, Defining problem, and analyzing stock market 
 =======
@@ -34,14 +34,16 @@
  
 
 ## Required Libraries:
- - Install by using pip3 install **module_name** or installation method that fits your device
- - pandas
- - numpy
- - matplotlib
- - scikit-learn
- - statsmodels
- - tensorflow
- - keras
+ - pip install Keras
+ - pip install --upgrade tensorflow
+ - pip install -U finance-datareader
+ - pip install tensorflow-gpu #for usage of GPU
+ - pip install keras-gpu #for usage of GPU
+ - pip install matplotlib
+ - pip install -U scikit-learn
+ - pip install -U statsmodels
+ - pip install -U pandas
+ - pip install -U numpy
 
 ## Execution Process:
  - Run Trading.ipynb (Jupyter file)
@@ -68,17 +70,7 @@
       - Focus on: skills, education, experience, knowledge as accomplishments (rather than duties and tasks)
  - Individual contributions
    
-## Requirement
- - pip install Keras
- - pip install --upgrade tensorflow
- - pip install -U finance-datareader
- - pip install tensorflow-gpu #for usage of GPU
- - pip install keras-gpu #for usage of GPU
- - pip install matplotlib
- - pip install -U scikit-learn
- - pip install -U statsmodels
- - pip install -U pandas
- - pip install -U numpy
+
  
 ## Grading:
  - Acquiring/Cleaning data
