@@ -3,16 +3,8 @@ import numpy as np
 import os
 
 from datetime import date
-
 import FinanceDataReader as fdr
 
-''''
-InstructionsL:
------------Install 
- - pip install -U finance-datareader
-
-
-'''
 
 def get_all_ticker(symbol):
     if symbol == 1:
