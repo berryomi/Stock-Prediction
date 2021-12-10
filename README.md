@@ -20,7 +20,14 @@
  - Jieung Park
 
 ## Required Libraries:
- - 
+ - Install by using pip3 install **module name** or installation method that fits your device
+ - pandas
+ - numpy
+ - matplotlib
+ - scikit-learn
+ - statsmodels
+ - tensorflow
+ - keras
 
 ## Execution Process:
  - Run Traiding.ipynb (Jupyter file)
