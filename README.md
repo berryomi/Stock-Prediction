@@ -13,7 +13,7 @@
          - Long Short-Term Memory (LSTM) Model   
 
 
-## Steps
+## Table of Contents
 
  - The data used are gathered from our crawler program (crawler.py)
     - Stock price indices used are:
