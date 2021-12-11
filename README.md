@@ -81,6 +81,7 @@
 
 
 ## Project Experience Summary
+
 - Jieung Park
 Stock Prediction with Machine & Deep Learning Models
 Built with Python & Jupyter
