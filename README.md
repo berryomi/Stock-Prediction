@@ -81,10 +81,34 @@
 
 
 ## Project Experience Summary
- - Must be included by each member (in addition to the 6 pages report)
- - Overview of the project (like a resume)
-      - Focus on: skills, education, experience, knowledge as accomplishments (rather than duties and tasks)
- - Individual contributions
+- Jieung Park
+Stock Prediction with Machine & Deep Learning Models
+Built with Python & Jupyter
+Cleaned the stock market data using DataFrame functions from the pandas module.
+Built linear and k-nearest neighbour regression models from scikit-learn module.
+Produced validation scores of the test dataset to analyze the models.
+Analyzed the graphs and data produced from the models by researching online.
+Wrote a report to provide understanding of the program built by organizing the programming processes.
+
+- Jiwon Jun
+Stock Prediction with Machine & Deep Learning Models
+Built with Python & Jupyter
+Applied noise filtering algorithms to capture the general trend of the data using LOESS and rolling mean.
+Found the best combination parameters using scikit-learn module to optimize the random forest regression.
+Built random forest regression models using the scikit-learn module.
+Analyzed the statistics of machine learning models to identify the reason for their failure to predict.
+Wrote a report to provide understanding of the program built by organizing the programming processes.
+
+- Youngseong Kim
+Stock Prediction with Machine & Deep Learning Models
+Built with jupyer notebook
+Developed a customized stock data crawler using financeDataReader module to get stock/indice raw data
+Preprocessed the data by short-rolling and long-rolling
+Normalized the data by MinMaxscaler using sckit-learn
+Built and Trained a LSTM model to predict stock price movements using keras and tensorflow 
+Analyzed the LSTM model to get statistical analysis (Ex. RMSE) and visualize the results using matplotlib
+Wrote a report to provide understanding of the program built by organizing the programming processes
+
    
 
  
