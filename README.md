@@ -90,8 +90,7 @@ Built with Python & Jupyter
     - Produced validation scores of the test dataset to analyze the models.
     - Analyzed the graphs and data produced from the models by researching online.
     - Wrote a report to provide understanding of the program built by organizing the programming processes.
-
-
+----------------------------------------------------------
 - Jiwon Jun
 Stock Prediction with Machine & Deep Learning Models
 Built with Python & Jupyter
@@ -100,8 +99,7 @@ Built with Python & Jupyter
     - Built random forest regression models using the scikit-learn module.
     - Analyzed the statistics of machine learning models to identify the reason for their failure to predict.
     - Wrote a report to provide understanding of the program built by organizing the programming processes.
-
-
+----------------------------------------------------------
 - Youngseong Kim
 Stock Prediction with Machine & Deep Learning Models
 Built with jupyer notebook
